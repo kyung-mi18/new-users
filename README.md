@@ -1,2 +1,2 @@
-# new-users
+# learning-lab
 Personal development repository
